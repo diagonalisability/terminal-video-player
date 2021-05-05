@@ -1,0 +1,6 @@
+I permit anyone to:
+- modify this program.
+- integrate this program with any other program.
+- copy/redistribute this program.
+Under the following condition:
+- You can't claim you wrote this code.
